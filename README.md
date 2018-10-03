@@ -4,9 +4,9 @@ A simple SWMM calibrator based on swmm5 package.
 
 Default folders:
 
-- model dir: INP file and .DAT files
-- data_dir: field data
-- results_dir: results will be saved here
+- models: INP file and .DAT files
+- data: field data
+- results: results will be saved here
 
 ## How to run
 ### 1. Install the dependencies
