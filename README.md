@@ -1,11 +1,8 @@
 # SWMM-calibrator
-# swmm-calibrator
+
 A simple SWMM calibrator based on swmm5 package.
 
-root folder
-|_ data_dir
-|_ model_dir
-|_ results_dir
+Default folders:
 
 - model dir: INP file and .DAT files
 - data_dir: field data
