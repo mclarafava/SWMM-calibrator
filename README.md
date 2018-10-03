@@ -17,7 +17,6 @@ Create an ini file (open saocarlos.ini as a example). We are working on the docu
 
 Use comma to separate each value and don't use spaces!
 
-
 ### 3. Run the calibrator
 
 python calibration.py
